@@ -43,7 +43,7 @@ Task: Test your model on a separate set of synthetic or real data (if available)
 Output: An optimized fraud detection system with documentation detailing
 your testing process and results.
 
-# Step 5: Document Your Process and Findings
+# Step 5: Document Process and Findings
 Tool: MacOS Pages Jupyter Notebook
 
 Task: Create a detailed report that includes:
